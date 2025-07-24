@@ -15,7 +15,7 @@
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleysouza&layout=compact)
-![Stats]<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=stanleysouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=stanleysouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
           
 </div>
 
