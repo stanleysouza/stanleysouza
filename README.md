@@ -28,6 +28,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanleyismael15@gmail.com)
 </a> -->    
 
+![Snake animation](https://github.com/stanleysouza/stanleysouzai/blob/output/github-contribution-grid-snake.svg)
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stanleysouza/stanleysouza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stanleysouza/stanleysouza/output/github-contribution-grid-snake.svg">
