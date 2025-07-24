@@ -19,7 +19,7 @@
     media="(prefers-color-scheme: dark)" 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleysouza&layout=compact&theme=github_dark" />
   <source 
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    media="(prefers-color-scheme: light)" 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleysouza&layout=compact&theme=default" />
   <img 
     alt="Top Langs" 
