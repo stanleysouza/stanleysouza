@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=499ABD&amp;height=90&amp;section=header" style="max-width: 100%;"> 
-<h1><strong>Oii, meu nome é Stanley Souza</strong></h1>
+<h1><strong>Oi, meu nome é Stanley Souza</strong></h1>
 
 
 <p>Main Techs: Java, JavaScript, NodeJS, VB6, Delphi <br>
