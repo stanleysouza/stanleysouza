@@ -14,17 +14,7 @@
 
 
 <br><br>
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleysouza&layout=compact&&theme=dracula" />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleysouza&layout=compact&theme=default" />
-  <img 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleysouza&layout=compact&theme=default" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleysouza&layout=compact&theme=dracula)
 ![Stats](https://github-readme-stats.vercel.app/api?username=stanleysouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
           
 </div>
